@@ -19,8 +19,7 @@ h1 {
 p {
     font-size: 1.2em; /* Slightly larger text for the paragraph */
     margin-top: 5px;
-}
-.light-text {
+} .light-text {
     margin-bottom: 2px;
     color: #4c4c4c;
 }
