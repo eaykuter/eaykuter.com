@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div {
+    display: flex; /* Enables Flexbox */
+    flex-direction: column; /* Stacks the children vertically */
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 100vh; /* Takes the full height of the viewport */
+    text-align: center; /* Centers the text inside the div */
+}
+h1 {
+    color: #1b591d; /* Green color for the heading */
+    font-size: 3em; /* Larger text size for the heading */
+    margin-bottom: 20px;
+}
+p {
+    font-size: 1.2em; /* Slightly larger text for the paragraph */
+    margin-top: 5px;
+}
+.light-text {
+    margin-bottom: 2px;
+    color: #4c4c4c;
+}
