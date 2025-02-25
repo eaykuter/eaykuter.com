@@ -12,14 +12,11 @@ div {
     text-align: center; /* Centers the text inside the div */
 }
 h1 {
-    color: #1b591d; /* Green color for the heading */
-    font-size: 3em; /* Larger text size for the heading */
+    color: #1b591d;
+    font-size: 3em;
     margin-bottom: 20px;
 }
 p {
-    font-size: 1.2em; /* Slightly larger text for the paragraph */
+    font-size: 1.2em;
     margin-top: 5px;
-} .light-text {
-    margin-bottom: 2px;
-    color: #4c4c4c;
 }
