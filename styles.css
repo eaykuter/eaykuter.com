@@ -14,7 +14,10 @@ div {
 h1 {
     color: #1b591d;
     font-size: 3em;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+}
+h2 {
+    margin-bottom: 15px;
 }
 p {
     font-size: 1.2em;
